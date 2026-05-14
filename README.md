@@ -62,15 +62,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/brenodubiela/brenodubiela/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/brenodubiela/brenodubiela/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/brenodubiela/brenodubiela/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/brenodubiela/brenodubiela/output/snake.svg" alt="Snake animation" />
 
 ###
